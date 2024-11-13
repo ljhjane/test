@@ -1,7 +1,7 @@
 counts = 0
 number = int(input("Input number : "))
 
-for i in range(1, number+1):
+for i in range(1, number):
     if number % i == 0:
         counts = counts + 1
     print(i, end=' ')
