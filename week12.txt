@@ -2,3 +2,4 @@
 - branch
 - git log 옵션(--oneline, --graph, --all)
 - git switch 브랜치명
+- 지현
